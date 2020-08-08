@@ -1,6 +1,8 @@
 import random
 import math
 
+# to add inheritance ........
+
 playing = False
 
 
